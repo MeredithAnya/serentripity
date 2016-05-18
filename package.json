@@ -14,5 +14,14 @@
   "license": "ISC",
   "dependencies": {
     "react-addons-linked-state-mixin": "^15.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeredithAnya/serentripity.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MeredithAnya/serentripity/issues"
+  },
+  "homepage": "https://github.com/MeredithAnya/serentripity#readme"
 }
